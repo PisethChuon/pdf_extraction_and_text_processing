@@ -31,6 +31,8 @@ Name: John Doe <br>
 Contact Number: +1 555-123-4567 <br>
 Email: john.doe@example.com <br>
 Address: 123 Elm Street, Springfield <br>
+## 4. Package
+pip install PyMuPDF
 
 ### Customization
 If you need to extract additional or different fields, you can modify the regular expressions in the script to match your specific needs.
