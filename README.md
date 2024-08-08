@@ -23,7 +23,7 @@ python extract_customer_info.py
 
 ## 3. Review the Output
 The script will extract and print the customer information from the PDF file. The output will be displayed in the terminal and will look something like this:
-yaml
+yaml <br>
 Copy code
 Extracted Customer Information:
 Name: John Doe
