@@ -18,8 +18,8 @@ Place the PDF file you want to process (e.g., Test.pdf) in the same directory as
 ## 2. Run the Script
 You can run the script directly from the command line:
 bash
-Copy code
-python extract_customer_info.py
+Copy code <br>
+python llm.py
 
 ## 3. Review the Output
 The script will extract and print the customer information from the PDF file. The output will be displayed in the terminal and will look something like this:
