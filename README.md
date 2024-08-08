@@ -1,4 +1,4 @@
-#1. Clone the Repository
+# 1. Clone the Repository
 Clone this repository to your local machine:
 bash
 Copy code
